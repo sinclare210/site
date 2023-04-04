@@ -1,0 +1,31 @@
+
+body{
+    background-color: blue
+}
+
+p,a{
+    text-align: left;
+}
+
+
+.loin{
+    background-color: white;
+    width: 25%;
+    text-align: center;
+    padding: 10px 20px 10px;
+
+    border-radius: 10px;
+    margin: 100px auto 100px;
+}
+input{
+width: 100%
+}
+button{
+
+}
+@media screen and (max-width: 1028px){
+   .loin {
+       width: 50%;
+       
+    }
+}
