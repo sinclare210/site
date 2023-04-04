@@ -23,9 +23,10 @@ width: 100%
 button{
 
 }
-@media screen and (max-width: 1028px){
+@media screen and (max-width: 1281px){
    .loin {
        width: 50%;
+       font-size:1.5rem
        
     }
 }
